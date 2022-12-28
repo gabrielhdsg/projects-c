@@ -1,2 +1,2 @@
-#Convert PPM image to a PGM
+# image_PPM_to_PGM
 
